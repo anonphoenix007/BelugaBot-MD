@@ -6,23 +6,23 @@ const chalk = require("chalk");
 global.available = true;
 global.autoReadGc = false;
 global.autoReadAll = false;
-global.antitags = true;
+global.antitags = false;
 
 
 //auto functioner
 global.autoTyping = false;                //auto tying by default off.
-global.autoRecord = true;                //auto recording by default off.
+global.autoRecord = false;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
-global.statusseen = true;                 //This is the new variable for controlling status seen.
+global.statusseen = false;                 //This is the new variable for controlling status seen.
 
 
 //
-global.Owner = ["2349021681461"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.OwnerNumber = ["2349021681461"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.ownertag = ["2349021681461"];
-global.OwnerName = "Gojo Satoru(Freddy)";
+global.Owner = ["2349078307812"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.OwnerNumber = ["2349078307812"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.ownertag = ["2349078307812"];
+global.OwnerName = "𝐅𝐫𝐞𝐝𝐝𝐲 𝐏𝐡𝐨𝐞𝐧𝐢𝐱 𝐌𝐢𝐥𝐥𝐬";
 global.BotName = "BelugaBot-MD";
-global.packname = "Beluga-MD";                             //Do not change.
+global.packname = "𝐅𝐫𝐞𝐝𝐝𝐲 𝐏𝐡𝐨𝐞𝐧𝐢𝐱 𝐌𝐢𝐥𝐥𝐬-Beluga-MD";                             //Do not change.
 global.author = "By: Slasher";                               //Do not change.
 global.BotSourceCode = "https://github.com/ahil15/BelugaBot-MD"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk"; 
@@ -33,7 +33,7 @@ global.sessionName = "session";                          //Do not change.
 
 
 //
-global.prefa = ["-"];                                    //Default prefix here.
+global.prefa = ["!"];                                    //Default prefix here.
 global.openAiAPI = "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";
 
 
