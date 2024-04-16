@@ -3,29 +3,29 @@ const chalk = require("chalk");
 
 
 //
-global.available = true;
+global.available = false;
 global.autoReadGc = false;
 global.autoReadAll = false;
-global.antitags = false;
+global.antitags = true;
 
 
 //auto functioner
 global.autoTyping = false;                //auto tying by default off.
-global.autoRecord = false;                //auto recording by default off.
+global.autoRecord = true;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
 global.statusseen = false;                 //This is the new variable for controlling status seen.
 
 
 //
-global.Owner = ["2349078307812"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.OwnerNumber = ["2349078307812"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.ownertag = ["2349078307812"];
-global.OwnerName = "𝐅𝐫𝐞𝐝𝐝𝐲 𝐏𝐡𝐨𝐞𝐧𝐢𝐱 𝐌𝐢𝐥𝐥𝐬";
+global.Owner = ["27640498397"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.OwnerNumber = ["27640498397 "];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.ownertag = ["27640498397"];
+global.OwnerName = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
 global.BotName = "BelugaBot-MD";
-global.packname = "𝐅𝐫𝐞𝐝𝐝𝐲 𝐏𝐡𝐨𝐞𝐧𝐢𝐱 𝐌𝐢𝐥𝐥𝐬-Beluga-MD";                             //Do not change.
-global.author = "By: Slasher";                               //Do not change.
-global.BotSourceCode = "https://github.com/ahil15/BelugaBot-MD"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk"; 
+global.packname = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";                             //Do not change.
+global.author = "🐦Makino md ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ";                               //Do not change.
+global.BotSourceCode = "https://github.com/anonphoenix007/"; //Do not change.
+global.SupportGroupLink = "https://chat.whatsapp.com"; 
 
 
 //
@@ -33,13 +33,13 @@ global.sessionName = "session";                          //Do not change.
 
 
 //
-global.prefa = ["!"];                                    //Default prefix here.
+global.prefa = ["/"];                                    //Default prefix here.
 global.openAiAPI = "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";
 
 
 //
 global.location = "Dhaka, Bangladesh";                   
-global.reactmoji = "";
+global.reactmoji = "🐦l";
 global.themeemoji = "";
 global.vidmenu = { url: 'https://tenor.com/view/jujutsu-kaisen0-yuta-okkotsu-gif-26767662' };
 global.websitex = "https://github.com/ahil15";
