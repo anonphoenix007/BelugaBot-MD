@@ -17,8 +17,8 @@ global.statusseen = false;                 //This is the new variable for contro
 
 
 //
-global.Owner = ["263717113706"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.OwnerNumber = ["263717113706 "];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.Owner = ["263717113706","2347080968564"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.OwnerNumber = ["263717113706","2347080968564"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
 global.ownertag = ["263717113706"];
 global.OwnerName = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
 global.BotName = "BelugaBot-MD";
