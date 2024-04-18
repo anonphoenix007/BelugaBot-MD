@@ -17,9 +17,9 @@ global.statusseen = false;                 //This is the new variable for contro
 
 
 //
-global.Owner = ["27640498397"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.OwnerNumber = ["27640498397 "];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.ownertag = ["27640498397"];
+global.Owner = ["263717113706"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.OwnerNumber = ["263717113706 "];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.ownertag = ["263717113706"];
 global.OwnerName = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
 global.BotName = "BelugaBot-MD";
 global.packname = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";                             //Do not change.
@@ -39,8 +39,8 @@ global.openAiAPI = "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";
 
 //
 global.location = "Dhaka, Bangladesh";                   
-global.reactmoji = "🐦l";
-global.themeemoji = "";
+global.reactmoji = "🐦";
+global.themeemoji = "😏";
 global.vidmenu = { url: 'https://tenor.com/view/jujutsu-kaisen0-yuta-okkotsu-gif-26767662' };
 global.websitex = "https://github.com/ahil15";
 global.lolhuman = "KaysaS";
